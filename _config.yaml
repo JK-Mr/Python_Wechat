@@ -1,0 +1,16 @@
+# 定时时间、
+alarm_timed: '08:00'
+
+girlfriend_infos:
+  - #女友微信昵称
+    wechat_name: '女友微信昵称'
+    #女友所在杭州
+    city_name: '杭州'
+    # 从那天开始勾搭的（可空）
+    start_date: '20**-**-**'
+    # 短句的最后留言（可空）
+    sweet_words: '来自最爱你的人！'
+
+
+
+
