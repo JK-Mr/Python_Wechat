@@ -8,7 +8,7 @@
 @time: 2019/4/8 13:24
 """
 
-from Wechat.GFWeather import GFWeather
+from pythonWechat.GFWeather import GFWeather
 
 
 def run():
