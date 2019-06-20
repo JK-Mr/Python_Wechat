@@ -14,7 +14,7 @@ import yaml
 from apscheduler.schedulers.blocking import BlockingScheduler
 from bs4 import BeautifulSoup
 import time
-import pythonWechat.city_dict as city_dict
+import PythonWechat.city_dict as city_dict
 
 
 class GFWeather:
